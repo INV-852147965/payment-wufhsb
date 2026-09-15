@@ -1,8 +1,10 @@
 15-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: dsq1@nvbell.net, shj5170@aol.com
-At: 2026-09-15 21:34:01
-Id: hJ7pFhlL
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: lamontsway@yahoo.com, honeydohandymans@aol.com
+At: 2026-09-15 21:34:41
+Id: PtY5nwKU
